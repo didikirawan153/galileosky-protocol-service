@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: galileosky-protocol-service
+
+tcp:
+    server:
+        port: 8585
